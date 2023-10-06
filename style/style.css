@@ -69,7 +69,7 @@ main {
     border-radius: 12px;
 }
 .wrapper-options {
-    display: flex;
+    display: flex !important;
     flex-wrap: wrap;
     gap: 10px;
 }
